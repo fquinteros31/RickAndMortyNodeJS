@@ -1,0 +1,11 @@
+{
+    "nombre" : "API que llama a RickAndMorty",
+    "configToken" : {
+        "SEED" : "secret",
+        "expiration" : "24h"
+    },
+    "configUrl" : {
+        "baseUrl" : "https://rickandmortyapi.com/api/",
+        "character" : "character/" 
+    }
+}
